@@ -1,12 +1,12 @@
 # CMAS
 
-Welcome! This repository contains cmaspy, a package for the Control of multi-agent systems (MAS). We have also developed its counterpart of cmaspy in Matlab, named cmasmat. 
+Welcome! This repository contains cmas, a package for the Control of multi-agent systems (MAS). CMAS is developed in Python and in Matlab. 
 
 ## Installation (Python)
 
 1. **Download cmaspy**: Make sure you have [python3.12](https://www.python.org/downloads/) (or greater) installed on your computer. Start by cloning this repository and navigating into the cmaspy directory.
     ```
-    $ git clone https://github.com/REAM-lab/CMAS
+    $ git clone https://github.com/REAM-lab/cmas
     $ cd CMAS
     ```
     Next, create a virtual python environment and install cmaspy in the virtual environment. To this end, execute the following:
